@@ -1,1 +1,27 @@
-
+[
+  {
+    "id": 101,
+    "name": "Omega Seamaster Diver 300M",
+    "price": 5200
+  },
+  {
+    "id": 102,
+    "name": "Rolex Submariner",
+    "price": 9500
+  },
+  {
+    "id": 150,
+    "name": "Tag Heuer Carrera",
+    "price": 3800
+  },
+  {
+    "id": 104,
+    "name": "Patek Philippe Nautilus",
+    "price": 33000
+  },
+  {
+    "id": 105,
+    "name": "Seiko Prospex Diver",
+    "price": 51150
+  }
+]
